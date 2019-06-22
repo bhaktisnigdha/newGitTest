@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="S:\eclipse-jee-2019-03-R-win32-x86_64\New folder" version="1.8.0_192">
+<bootpath>
+<entry path="S:\eclipse-jee-2019-03-R-win32-x86_64\New folder\lib\resources.jar"/>
+<entry path="S:\eclipse-jee-2019-03-R-win32-x86_64\New folder\lib\rt.jar"/>
+<entry path="S:\eclipse-jee-2019-03-R-win32-x86_64\New folder\lib\sunrsasign.jar"/>
+<entry path="S:\eclipse-jee-2019-03-R-win32-x86_64\New folder\lib\jsse.jar"/>
+<entry path="S:\eclipse-jee-2019-03-R-win32-x86_64\New folder\lib\jce.jar"/>
+<entry path="S:\eclipse-jee-2019-03-R-win32-x86_64\New folder\lib\charsets.jar"/>
+<entry path="S:\eclipse-jee-2019-03-R-win32-x86_64\New folder\lib\jfr.jar"/>
+<entry path="S:\eclipse-jee-2019-03-R-win32-x86_64\New folder\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="S:\eclipse-jee-2019-03-R-win32-x86_64\New folder\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="S:\eclipse-jee-2019-03-R-win32-x86_64\New folder\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
